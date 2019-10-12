@@ -324,7 +324,7 @@ js的类型转换的表现满足以下几点规则：
 
     除此之外
 
-    [MDN]: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
+    [MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
 
     还给出了以下提醒：
 
@@ -348,7 +348,9 @@ js的类型转换的表现满足以下几点规则：
 
 ### 参考
 
-[【JS 进阶】你真的掌握变量和类型了吗]: https://juejin.im/post/5cec1bcff265da1b8f1aa08f#heading-28
-[17道题彻底理解 JavaScript 中的类型转换]: https://juejin.im/post/5d4999fff265da038f47f5c7#heading-6
-[关于数据类型转换的面试题总结]: https://zhuanlan.zhihu.com/p/31105614
+[【JS 进阶】你真的掌握变量和类型了吗](https://juejin.im/post/5cec1bcff265da1b8f1aa08f#heading-28)
+
+[17道题彻底理解 JavaScript 中的类型转换](https://juejin.im/post/5d4999fff265da038f47f5c7#heading-6)
+
+[关于数据类型转换的面试题总结](https://zhuanlan.zhihu.com/p/31105614)
 

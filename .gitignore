@@ -1,0 +1,4 @@
+.idea/
+*.iml
+.drone.yml
+.DS_Store

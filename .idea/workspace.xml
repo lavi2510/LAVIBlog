@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a87fbd88-0fe3-4b51-8e93-0e0ff34cc817" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/image/image-20191009183456989.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image-20191011170606782.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image-20191011180220132.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/image-20191011212238640.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【跟着犀牛书复习JS基础】隐式类型转换.md" afterDir="false" />
-    </list>
+    <list default="true" id="a87fbd88-0fe3-4b51-8e93-0e0ff34cc817" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -23,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/【跟着犀牛书复习JS基础】隐式类型转换.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="284">
-                <caret line="330" column="35" selection-start-line="330" selection-start-column="35" selection-end-line="330" selection-end-column="35" />
+              <first_editor relative-caret-position="192">
+                <caret line="332" column="18" selection-start-line="332" selection-start-column="18" selection-end-line="332" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -59,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="810" />
@@ -84,6 +78,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -122,23 +117,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570812205552</updated>
-      <workItem from="1570812206738" duration="1894000" />
+      <workItem from="1570812206738" duration="2156000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1894000" />
+    <option name="totallyTimeSpent" value="2156000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="810" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.061604585" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21060172" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3286908" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -160,8 +154,8 @@
     <entry file="file://$PROJECT_DIR$/【跟着犀牛书复习JS基础】隐式类型转换.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="284">
-            <caret line="330" column="35" selection-start-line="330" selection-start-column="35" selection-end-line="330" selection-end-column="35" />
+          <first_editor relative-caret-position="192">
+            <caret line="332" column="18" selection-start-line="332" selection-start-column="18" selection-end-line="332" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>
